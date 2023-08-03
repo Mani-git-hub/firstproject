@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
+	int x = 300;
 	printf("Hello\n");
-	printf("New line inserted\n");
 	printf("one line deleted\n");
 }
