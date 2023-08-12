@@ -1,6 +1,2 @@
-this is file5 text.
-today Aug 15
-make changes...
-happy independence day
-today is sunday
-hello
+file 15 has modified.
+printf("hello world")
