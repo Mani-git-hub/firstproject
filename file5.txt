@@ -1,3 +1,4 @@
 file 15 has modified.
+deletion
 printf("hello world")
 removed
